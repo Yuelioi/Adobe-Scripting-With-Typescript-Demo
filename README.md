@@ -4,6 +4,8 @@
 
 [![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/yuelili.ae-tsx-runner?color=blue&label=AE%2520Runner%2520Plugin)](https://marketplace.visualstudio.com/items?itemName=yuelili.ae-tsx-runner)
 
+[English](README-EN.md) | [中文](README.md)
+
 ## ✨ 特性
 
 * **TypeScript 支持** - 类型安全的 AE 脚本开发
@@ -24,7 +26,7 @@
 1. **安装 VSCode 插件**
    [AE TSX Runner](https://marketplace.visualstudio.com/items?itemName=yuelili.ae-tsx-runner)
 2. **克隆项目**
-  
+
    ```bash
    git clone git@github.com:Yuelioi/Adobe-Scripting-With-Typescript-Demo.git
    cd Adobe-Scripting-With-Typescript-Demo

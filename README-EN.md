@@ -4,6 +4,8 @@ A TypeScript-based template for Adobe After Effects script development, featurin
 
 [![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/yuelili.ae-tsx-runner?color=blue&label=AE%2520Runner%2520Plugin)](https://marketplace.visualstudio.com/items?itemName=yuelili.ae-tsx-runner)
 
+[English](README-EN.md) | [中文](README.md)
+
 ## ✨ Features
 
 * **TypeScript Support** - Type-safe scripting for AE
