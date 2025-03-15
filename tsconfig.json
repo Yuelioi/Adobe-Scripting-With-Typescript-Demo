@@ -1,0 +1,35 @@
+{
+  "compilerOptions": {
+    "target": "ES5",
+    "removeComments": true,
+    "module": "ESNext",
+    "lib": [
+      "ESNext"
+    ],
+    "strict": true,
+    "outDir": "./dist",
+    "baseUrl": ".",
+    "jsx": "preserve",
+    "useDefineForClassFields": false,
+    "noUncheckedIndexedAccess": true,
+    "noUnusedParameters": true,
+    "skipLibCheck": true,
+    "allowSyntheticDefaultImports": true,
+    "noEmit": false,
+    "esModuleInterop": true,
+    "paths": {
+      "@/*": [
+        "./src/*"
+      ]
+    }
+  },
+  "include": [
+    "index.d.ts",
+    "./node_modules/types-for-adobe/AfterEffects/22.0/index.d.ts",
+    "src/**.ts",
+    "src/**.tsx",
+  ],
+  "exclude": [
+    "node_modules"
+  ]
+}

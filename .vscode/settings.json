@@ -1,0 +1,16 @@
+{
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/.DS_Store": true,
+    "**/Thumbs.db": true,
+    "**/CVS": true
+  },
+  "hide-files.files": [],
+  "ae-tsx-runner": {
+    "input": "e:\\Scripting\\Public\\Demo\\Adobe Scripting With Typescript Demo\\src\\main.tsx",
+    "output": "e:\\Scripting\\Public\\Demo\\Adobe Scripting With Typescript Demo\\dist\\main.jsx",
+    "hostSpecifier": ""
+  }
+}
